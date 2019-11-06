@@ -30,7 +30,7 @@ end
 
 def aoh_lookup(aoh, row, key)
   
-  aoh_lookup = literal_aoh[2]
+  aoh_lookup = literal_aoh[2][:name]
   
 end
 
