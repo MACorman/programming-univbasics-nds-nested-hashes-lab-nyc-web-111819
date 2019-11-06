@@ -39,6 +39,7 @@ def aoh_update(aoh, row, key, new_value)
   # Return the updated AoH
   
   new_value = "Joelle van Dyne (PGOAT)"
-  
+  local_copy_of_aoh = literal_aoh.dup
+  local_copy_of_aoh = 
   
 end
